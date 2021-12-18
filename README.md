@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CyresCooper
-- 👀 I’m interested in Wev Devolpement, Data Anlytics, Statistics 
+- 👀 I’m interested in Web Devolpement, Data Anlytics, Statistics 
 - 🌱 I’m currently learning Full Stack Programming
 - 💞️ I’m looking to collaborate on running a bot made from python to help predict outcomes of games
 - 📫 How to reach me CyresCooper@gmail.com
